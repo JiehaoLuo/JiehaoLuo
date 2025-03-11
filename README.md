@@ -1,6 +1,6 @@
 🌟 Hi there, I'm Jiehao Luo (罗杰豪)! 👋
 
-🎓 Junior-year undergrad @SCNU, pursuing B.S. in IoT Engineering
+🎓 Junior-year undergrad South China Normal University @[SCNU](https://www.scnu.edu.cn/), pursuing B.S. in IoT Engineering
 
 🔭 Research Interests: 3D Perception & SLAM, Loop Closure Detection, LiDAR-based Place Recognition, Scene Flow Estimation, Moving Object Segmentation
 🤖 Machine Learning Enthusiast: Self-Supervised Learning, Meta Learning, Face Recognition
