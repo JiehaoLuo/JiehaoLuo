@@ -7,5 +7,5 @@
 
 📧 Reach me at: 20228132034@m.scnu.edu.cn or 2572148887@qq.com
 
-📖🏃‍♂️🎧 When I'm not coding or studying, I enjoy reading and going for a refreshing run, and discovering new music to add to my playlist.
+📖🏃‍♂️🎧 When I'm not coding or studying, I enjoy reading science fiction novels, going for a refreshing run, and discovering new music to add to my playlist.
 Let's connect and build something awesome together! 😄
